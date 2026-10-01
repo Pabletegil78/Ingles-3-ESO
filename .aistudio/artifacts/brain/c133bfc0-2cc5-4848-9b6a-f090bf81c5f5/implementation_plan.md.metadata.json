@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de implementación para la renovación completa de la app para 3º ESO:\n- Eliminación del temario antiguo de 2º ESO (unidades 7-9).\n- Conservación y evolución de los mejores patrones de la versión anterior (diseño gamificado, XP, rachas, feedback inmediato, fichas visuales de teoría).\n- Soporte para subida y lectura de fotos de páginas de libro/apuntes (multimodal Gemini) para extraer automáticamente teoría y ejercicios de 3º ESO.\n- Modos de estudio enriquecidos: Examen global, práctica guiada por unidades con mezcla de preguntas (huecos, opción múltiple y reescritura de oraciones) y simulacro contrarreloj.\n- Explicaciones pedagógicas en español con ejemplos en inglés.",
+  "updatedAt":  "2026-10-01T18:22:16.631452293Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
